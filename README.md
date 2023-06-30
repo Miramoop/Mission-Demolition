@@ -1,2 +1,2 @@
 # MissionDemolition
-One of the projects I completed in my free time
+One of the projects I completed in my free time. It was created using Visual Studio 2022 Community Edition and Unity Hub. It also utilizes the coding language of C#. It is meant to have aspects similar to that of [Angry Birds](https://en.wikipedia.org/wiki/Angry_Birds), [Crossbows and Catapults](https://en.wikipedia.org/wiki/Crossbows_and_Catapults), [Worms](https://en.wikipedia.org/wiki/Worms_(series)), and [Scorched Earth](https://en.wikipedia.org/wiki/Scorched_Earth_(video_game)). I also used this [textbook](https://www.amazon.com/Introduction-Game-Design-Prototyping-Development/dp/0134659864) for aspects of the code and assets.
