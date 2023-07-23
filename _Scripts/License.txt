@@ -48,6 +48,13 @@ License: Creative Commons CC0
 Date: July 23, 2023	
 Time: 10:20 AM
 
+Asset: Milky Again Font
+Asset URL: https://www.dafont.com/milky-again.font
+Author: Khurasan 
+License: This font is free 100% for personal use and commercial use
+Date: July 23, 2023	
+Time: 6:38 PM
+
 Asset: 
 Asset URL: 
 Author: 

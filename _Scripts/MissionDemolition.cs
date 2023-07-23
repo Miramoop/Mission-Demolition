@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public enum GameMode
 {
@@ -17,9 +18,9 @@ public class MissionDemolition : MonoBehaviour
     static private MissionDemolition S; //private singleton
 
     [Header("Set in Inspector")]
-    public Text uitLevel; //The UIText_Level Text
-    public Text uitShots; //The UIText_Shots Text
-    public Text uitButton; //The Text on UIButton_View
+    public TMP_Text uitLevel; //The UIText_Level Text
+    public TMP_Text uitShots; //The UIText_Shots Text
+    public TMP_Text uitButton; //The Text on UIButton_View
     public Vector3 castlePos; //The place to put castles
     public GameObject[] castles; //An array of the castles
 
