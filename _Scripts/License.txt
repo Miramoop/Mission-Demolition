@@ -1,0 +1,56 @@
+Licenses: 
+Asset: Free Music Tracks For Games
+Asset URL: https://assetstore.unity.com/packages/audio/music/free-music-tracks-for-games-156413
+Author: Rizwan Ashraf
+License: Standard Unity Asset Store EULA
+Date: April 5, 2023
+Time: 3:04 PM
+
+Asset: Free UI Click Sound Pack
+Asset URL: https://assetstore.unity.com/packages/audio/sound-fx/free-ui-click-sound-pack-244644
+Author: SwishSwoosh
+License: Standard Unity Asset Store EULA
+Date: April 5, 2023		
+Time: 3:10 PM
+
+Asset: Low-Poly Simple Nature Pack
+Asset URL: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
+Author: JustCreate
+License: Standard Unity Asset Store EULA
+Date: April 5, 2023
+Time: 12:29 PM
+
+Asset: Forest - Low Poly Toon Battle Arena / Tower Defense Pack
+Asset URL: https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080
+Author: AurynSky
+License: Standard Unity Asset Store EULA
+Date: July 23, 2023
+Time: 9:50 AM
+
+Asset: Free Low Poly Nature Forest	
+Asset URL: https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742
+Author: Pure Poly	
+License: Standard Unity Asset Store EULA
+Date: July 23, 2023
+Time: 9:54 AM
+
+Asset: Nature Kit	
+Asset URL: https://www.kenney.nl/assets/nature-kit
+Author: Kenney
+License: Creative Commons CC0
+Date: July 23, 2023	
+Time: 10:17 AM
+
+Asset: Platformer Kit	
+Asset URL: https://www.kenney.nl/assets/platformer-kit
+Author: Kenney
+License: Creative Commons CC0
+Date: July 23, 2023	
+Time: 10:20 AM
+
+Asset: 
+Asset URL: 
+Author: 
+License: 
+Date:
+Time: 

@@ -10,6 +10,7 @@ public class Menu : MonoBehaviour
     public string level;
     public string credits;
     public string options;
+    public string mainmenu;
 
     public void PlayGame()
     {
@@ -23,6 +24,10 @@ public class Menu : MonoBehaviour
     public void ShowCredits()
     {
         SceneManager.LoadScene(credits);
+    }
+    public void ShowMainMenu()
+    {
+        SceneManager.LoadScene(mainmenu);
     }
 
     public void ExitGame()
